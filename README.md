@@ -1,7 +1,7 @@
 # Student Performance Analysis
 
 ## Overview
-This project focuses on analyzing student performance data using Python. It demonstrates data manipulation and visualization techniques with libraries like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Folium**, and **Plotly**.
+The main Script file demonstrates data manipulation and visualization techniques with libraries like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Folium**, and **Plotly**.
 
 ## Features
 - **Data Exploration:** Inspect data, handle missing values, and get summaries.
@@ -22,7 +22,6 @@ This project focuses on analyzing student performance data using Python. It demo
 
 ## Files
 - **data_analysis_task1.py:** Main script for processing and visualization.
-- **heatmap.html:** Interactive map output.
 - **filtered_data.csv:** Filtered data based on conditions.
 
 ## Setup
@@ -47,4 +46,4 @@ This project focuses on analyzing student performance data using Python. It demo
 ## Insights
 - Analyzed relationships between gender, parental education, and scores.
 - Visualized data trends, distributions, and correlations.
-- Created interactive geographic heatmaps.
+
